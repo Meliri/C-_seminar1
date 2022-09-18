@@ -1,0 +1,15 @@
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\bin\Debug\net6.0\Ex1_Hello.exe
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\bin\Debug\net6.0\Ex1_Hello.deps.json
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\bin\Debug\net6.0\Ex1_Hello.runtimeconfig.json
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\bin\Debug\net6.0\Ex1_Hello.dll
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\bin\Debug\net6.0\Ex1_Hello.pdb
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.csproj.AssemblyReference.cache
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.AssemblyInfoInputs.cache
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.AssemblyInfo.cs
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.csproj.CoreCompileInputs.cache
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.dll
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\refint\Ex1_Hello.dll
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.pdb
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\Ex1_Hello.genruntimeconfig.cache
+C:\Users\lily7\Documents\GB\Языки программирования\Examples\Ex1_Hello\obj\Debug\net6.0\ref\Ex1_Hello.dll
